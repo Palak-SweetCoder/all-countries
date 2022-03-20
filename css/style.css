@@ -1,5 +1,19 @@
 body {
+    margin: 15px;
     background-color: ghostwhite;
+    max-width: fit-content;
+}
+
+h1 {
+    text-align: center;
+}
+
+.coder{
+    text-align: center;
+}
+
+.coder-name {
+    color: fuchsia;
 }
 
 .countries {
