@@ -1,0 +1,20 @@
+body {
+    background-color: ghostwhite;
+}
+
+.countries {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.country {
+    border: 3px solid grey;
+    background-color: gainsboro;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.country img {
+    width: 200px;
+}
